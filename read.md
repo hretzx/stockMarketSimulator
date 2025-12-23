@@ -1,5 +1,3 @@
-```
-
 # Stock Market Simulator
 
 A high-performance order matching engine built in C that simulates real-time stock trading with efficient data structures and optimized algorithms.
@@ -126,7 +124,7 @@ Enter Quantity: 100
 
 ## Time Complexity Analysis
 
-![TimeComplexity](imahes/tc.png)
+![TimeComplexity](images/tc.png)
 
 ## Memory Management
 
@@ -191,5 +189,3 @@ Built with a focus on clean, maintainable code and real-world applicability to f
 ## License
 
 This project is open source and available for educational purposes.
-
-```
